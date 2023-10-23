@@ -1,0 +1,6 @@
+<pragmas>
+<pragma file="hls_divisor/main.cpp" line="5" pragmaType="interface" parentfunction="division_hls" mode="ap_ctrl_none" port="return" name=""/>
+<pragma file="hls_divisor/main.cpp" line="6" pragmaType="interface" parentfunction="division_hls" mode="ap_none" port="c" name="" register="0"/>
+<pragma file="hls_divisor/main.cpp" line="7" pragmaType="interface" parentfunction="division_hls" mode="ap_none" port="b" name="" register="0"/>
+<pragma file="hls_divisor/main.cpp" line="8" pragmaType="interface" parentfunction="division_hls" mode="ap_none" port="a" name="" register="0"/>
+</pragmas>
